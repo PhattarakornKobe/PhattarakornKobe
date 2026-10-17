@@ -1,4 +1,4 @@
-# Hi, I'm Overflowz (Kobe)
+# Hi, I'm Kobe (Overflowz)
 
 > **Student · Programmer · Builder**
 > Thailand 🇹🇭
@@ -51,10 +51,6 @@ and exploring **systems, algorithms, web development, and design.**
 ## 📫 Contact
 
 🌐 **Website:** Soon...
-📧 **Email:** Soon...
+📧 **Email:** koko3201io@gmail.com
 
 ---
-
-void Kobe(){
-    std::cout >> "Some day y'all will see";
-}
