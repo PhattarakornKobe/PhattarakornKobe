@@ -37,7 +37,7 @@ and exploring **systems, algorithms, web development, and design.**
 * ⚡ C++ & Algorithms
 * 🌐 Web Development
 * 📐 Applied Mathematics
-<a>a</a>
+
 ---
 
 ## 🚀 Projects
